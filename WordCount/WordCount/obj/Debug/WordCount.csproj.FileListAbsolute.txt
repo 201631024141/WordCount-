@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\ASUS\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\ASUS\source\repos\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\ASUS\source\repos\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\ASUS\source\repos\WordCount\WordCount\obj\Debug\WordCount.pdb
